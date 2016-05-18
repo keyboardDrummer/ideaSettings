@@ -1,0 +1,13 @@
+<application>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="com.sun" />
+    <EXCLUDED_PACKAGE NAME="java.awt.RenderingHints.Key" />
+    <EXCLUDED_PACKAGE NAME="java.security.Key" />
+    <EXCLUDED_PACKAGE NAME="jdk.nashorn" />
+    <EXCLUDED_PACKAGE NAME="junit.framework.Assert" />
+    <EXCLUDED_PACKAGE NAME="org.jdesktop" />
+    <EXCLUDED_PACKAGE NAME="org.w3c" />
+    <EXCLUDED_PACKAGE NAME="sun.awt" />
+    <EXCLUDED_PACKAGE NAME="sun.plugin" />
+  </component>
+</application>
