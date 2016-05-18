@@ -3,5 +3,10 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl v" />
+  </action>
+  <action id="Replace" />
   <action id="SaveAll" />
 </keymap>
