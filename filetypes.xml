@@ -6,6 +6,7 @@
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern="proflingResults" type="PLAIN_TEXT" />
       <mapping ext="jasmin" type="PLAIN_TEXT" />
+      <mapping ext="scss" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
