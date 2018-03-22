@@ -1,0 +1,18 @@
+<application>
+  <component name="LSPState">
+    <option name="extToServ">
+      <map>
+        <entry key="jva">
+          <value>
+            <array>
+              <option value="exe" />
+              <option value="jva" />
+              <option value="java" />
+              <option value="-jar /Users/rwillems/Dropbox/Projects/Code/ParticleCompilerSbt/target/scala-2.12/MiksiloLspServer-assembly-1.0.jar" />
+            </array>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
