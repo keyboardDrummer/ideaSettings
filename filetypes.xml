@@ -9,6 +9,7 @@
       <mapping pattern="proflingResults" type="PLAIN_TEXT" />
       <mapping ext="jasmin" type="PLAIN_TEXT" />
       <mapping ext="stpl" type="PLAIN_TEXT" />
+      <mapping ext="sv" type="PLAIN_TEXT" />
       <mapping ext="jva" type="PLAIN_TEXT" />
       <mapping ext="scss" type="PLAIN_TEXT" />
       <mapping ext="ctpl" type="PLAIN_TEXT" />
