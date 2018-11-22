@@ -1,5 +1,10 @@
-<code_scheme name="Default">
+<code_scheme name="Default" version="173">
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
+  <ScalaCodeStyleSettings>
+    <option name="TYPE_ANNOTATION_PUBLIC_MEMBER" value="false" />
+    <option name="TYPE_ANNOTATION_PROTECTED_MEMBER" value="false" />
+    <option name="TYPE_ANNOTATION_STRUCTURAL_TYPE" value="false" />
+  </ScalaCodeStyleSettings>
 </code_scheme>
