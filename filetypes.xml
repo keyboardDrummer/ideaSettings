@@ -2,18 +2,27 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Assignment" type="CLASS" />
-      <mapping pattern="CNAME" type="PLAIN_TEXT" />
-      <mapping pattern="profilingWhile" type="PLAIN_TEXT" />
-      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern="c-style-for-loops" type="PLAIN_TEXT" />
       <mapping pattern="proflingResults" type="PLAIN_TEXT" />
-      <mapping ext="smithy" type="PLAIN_TEXT" />
-      <mapping ext="jasmin" type="PLAIN_TEXT" />
+      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
+      <mapping pattern="profilingWhile" type="PLAIN_TEXT" />
+      <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping ext="stpl" type="PLAIN_TEXT" />
+      <mapping ext="smithy" type="PLAIN_TEXT" />
+      <mapping ext="ctpl" type="PLAIN_TEXT" />
       <mapping ext="sv" type="PLAIN_TEXT" />
       <mapping ext="jva" type="PLAIN_TEXT" />
-      <mapping ext="scss" type="PLAIN_TEXT" />
-      <mapping ext="ctpl" type="PLAIN_TEXT" />
+      <mapping ext="jasmin" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="scss" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
     </extensionMap>
   </component>
 </application>
