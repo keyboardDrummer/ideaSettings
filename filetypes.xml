@@ -2,14 +2,14 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Assignment" type="CLASS" />
-      <mapping pattern="profilingWhile" type="PLAIN_TEXT" />
-      <mapping pattern="CNAME" type="PLAIN_TEXT" />
-      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
-      <mapping pattern="c-style-for-loops" type="PLAIN_TEXT" />
       <mapping pattern="proflingResults" type="PLAIN_TEXT" />
+      <mapping pattern="profilingWhile" type="PLAIN_TEXT" />
+      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
+      <mapping pattern="CNAME" type="PLAIN_TEXT" />
+      <mapping pattern="c-style-for-loops" type="PLAIN_TEXT" />
       <mapping ext="smithy" type="PLAIN_TEXT" />
-      <mapping ext="jasmin" type="PLAIN_TEXT" />
       <mapping ext="bla" type="PLAIN_TEXT" />
+      <mapping ext="jasmin" type="PLAIN_TEXT" />
       <mapping ext="stpl" type="PLAIN_TEXT" />
       <mapping ext="sv" type="PLAIN_TEXT" />
       <mapping ext="jva" type="PLAIN_TEXT" />

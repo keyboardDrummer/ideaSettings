@@ -1,7 +1,0 @@
-<application>
-  <component name="CodeInsightSettings">
-    <EXCLUDED_PACKAGE NAME="com.sun" />
-    <EXCLUDED_PACKAGE NAME="java.lang.reflect.TypeVariable" />
-    <EXCLUDED_PACKAGE NAME="javax.lang" />
-  </component>
-</application>

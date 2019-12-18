@@ -1,4 +1,9 @@
 <application>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="com.sun" />
+    <EXCLUDED_PACKAGE NAME="java.lang.reflect.TypeVariable" />
+    <EXCLUDED_PACKAGE NAME="javax.lang" />
+  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
   </component>
